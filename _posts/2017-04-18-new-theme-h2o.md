@@ -4,7 +4,7 @@ title: 'Hei! U Come Here at last'
 subtitle: 'In There ,U Just Do What U Wanna Do'
 date: 2019-05-03
 categories: 技术 hobby
-cover: 'D:\gethub\blog\floyp.github.io\assets\img.jpg'
+cover: '..\assets\img\cover.jpg'
 tags: 数据分析 摄影 python M语言
 ---
 
