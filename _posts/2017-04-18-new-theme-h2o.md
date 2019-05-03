@@ -4,7 +4,7 @@ title: 'Hei! U Come Here at last'
 subtitle: 'In There ,U Just Do What U Wanna Do'
 date: 2019-05-03
 categories: 技术 hobby
-cover: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2909314631,3927913895&fm=15&gp=0.jpg'
+cover: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556893829823&di=92daab384b502a55a686718dca46c269&imgtype=0&src=http%3A%2F%2Fup.iosdesk.com%2Fpic_source%2Fe6%2F8f%2Feb%2Fe68febebd32f4d3a9aef26860578583c.jpg'
 tags: 数据分析 摄影 python M语言
 ---
 
